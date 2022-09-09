@@ -2,3 +2,8 @@
 - I'll try to make a landing page and add a top nav bar today.
 - Will try to implement bootstrap. Creating responsive UIs are a nightmare, better to just learn how to use bootstrap then hitting hammer on a rock with pure CSS like last time.
 
+Accomplished on 9/8/2022:
+- Bootstrap has surpassed my every expectations. Whatever I could have achieved in designing UIs within one week now could be done in 3 hours lol.
+- SO NO MORE SLUGGING OVER COMPLICATED CSS OR HTML FROM THIS POINT HOPEFULLY.
+-Added a full landing page with a search bar, topnav, main title, posts template, sort button, etc.
+- From now on I could move on to work with JS and React to better fit the UIs.
