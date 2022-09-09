@@ -1,6 +1,6 @@
 9/8/2022:
 - I'll try to make a landing page and add a top nav bar today.
-- Will try to implement bootstrap. Creating responsive UIs are a nightmare, better to just learn how to use bootstrap then hitting hammer on a rock with pure CSS like last time.
+- Will try to implement bootstrap. Creating responsive UIs are a nightmare, better to just learn how to use bootstrap than hitting hammer on a rock with pure CSS like last time.
 
 Accomplished on 9/8/2022:
 - Bootstrap has surpassed my every expectations. Whatever I could have achieved in designing UIs within one week now could be done in 3 hours lol.
